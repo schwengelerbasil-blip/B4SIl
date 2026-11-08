@@ -1,0 +1,15 @@
+{
+  "name": "b4sil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B4SIL – Mix & Mastering",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
